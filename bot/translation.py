@@ -53,7 +53,7 @@ class Translation(object):
 
 <b>>➥👨‍💼Master</b> : <b><a href="https://t.me/AlbertEinstein_TG">👤Albert Einstein</a></b>
 
-<b>➥ 👨‍💻Editor</b> : <b><a href="https://t.me/MRk_YT">👤Mrk YT</a></b>
+<b>➥ 👨‍💻Editor</b> : <b><a href="https://t.me/+U6E8YrV26XRkNDE1">👤Mrk YT</a></b>
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
 
