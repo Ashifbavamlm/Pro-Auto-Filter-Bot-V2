@@ -17,12 +17,12 @@
 ##### Deploy
 You can deploy this bot anywhere.
 
-**[Watch Deploying Tutorial...](https://youtu.be/OTqZmADyOjU)**
+**[Watch Deploying Tutorial...]**
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/Ashifbavamlm/Pro-Auto-Filter-Bot-V2">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
